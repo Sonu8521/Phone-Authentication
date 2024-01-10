@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831427435795",
+    "project_id": "verifyphoneno-ecb75",
+    "storage_bucket": "verifyphoneno-ecb75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831427435795:android:78973720f5789b447b0ee6",
+        "android_client_info": {
+          "package_name": "com.example.verify_phoneno"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRPRN3VGeZU0Lvm0yfTPTGEsuvIfPseD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
